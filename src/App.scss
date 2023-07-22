@@ -1,0 +1,18 @@
+span.badge.position-absolute {
+  top: 10px;
+  right: 10px;
+}
+
+.card a:visited {
+  color: red  !important;
+}
+
+.user-list {
+  padding: 0;
+  .user-item {
+    list-style: none;
+    padding: 10px;
+    background: #e5e5e5;
+    border: 1px solid #fff;
+  }
+}
